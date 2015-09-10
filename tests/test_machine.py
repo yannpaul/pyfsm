@@ -26,4 +26,4 @@ def test_complete():
     default_machine = pyfsm.default_machine
     assert len(default_machine.events) == 2
     default_machine.build_events()
-    assert default_machine.complete_events() 
+    assert default_machine.events_are_complete() 
