@@ -1,4 +1,5 @@
 
+![travis-ci status](https://travis-ci.org/yannpaul/pyfsm.svg?branch=master)
 
 ## Introduction
 
