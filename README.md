@@ -1,6 +1,7 @@
 
-![travis-ci status](https://travis-ci.org/yannpaul/pyfsm.svg?branch=master)
+[![travis-ci status](https://travis-ci.org/yannpaul/pyfsm.svg?branch=master)](https://travis-ci.org/yannpaul/pyfsmbranch=master)
 
+[![Coverage Status](https://coveralls.io/repos/yannpaul/pyfsm/badge.svg?branch=master&service=github)](https://coveralls.io/github/yannpaul/pyfsm?branch=master)
 ## Introduction
 
 pyfsm, a named used already, is a simple, example python package where I'm
